@@ -123,10 +123,12 @@ footer ul{
 .footer ul :first-child{
     list-style: none;
     text-decoration: none;
-    color: #888888;
+    color: #0a0303;
+    
 }
 .footer ul{
 gap: 15px;
+color: #0a0303;
 
 }
 @media (max-width: 1500px) {
